@@ -15,12 +15,13 @@
 echo 'Today is '.date('Y/m/d (D)');
 echo 'ここはテスト用サイトです'.'<br><br>'; 
 
+//スコープのテスト。for文にスコープはあるのか
 for($i=0; $i<10; $i++){
    $j="jjjj";
   echo $j.$i."<br>";
 }
 
-echo "for文外".$j.$i;
+echo "for文外".$j.$i;//スコープがあればここには出力されない
 
 
 
@@ -53,6 +54,10 @@ document.write("<h4>配列のテスト</h4>");
 var arr = ["aaaa","bbbb"];
 arr[7] = "cccc";
 document.write(arr.length);
+
++function(){
+  document.write("<h4>即時関数の実行テスト</h4><p>この2行が表示されていればおｋ</p>");
+}(); // +function(){}(); = (function(){})(); と同義。
 
 
 
