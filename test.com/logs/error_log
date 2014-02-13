@@ -637,3 +637,183 @@
 [Wed Jan 29 05:13:50 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:68
 [Wed Jan 29 05:13:50 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/css, referer: http://test.sunrisedigital.jp/
 [Wed Jan 29 05:13:50 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Fri Jan 31 09:44:00 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 15
+[Fri Jan 31 09:44:00 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Fri Jan 31 09:44:00 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Fri Jan 31 09:44:00 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:15
+[Fri Jan 31 09:44:00 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 80
+[Fri Jan 31 09:44:00 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Fri Jan 31 09:44:00 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Fri Jan 31 09:44:00 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:80
+[Fri Jan 31 09:44:00 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/css, referer: http://test.sunrisedigital.jp/
+[Fri Jan 31 09:44:00 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Fri Jan 31 09:45:28 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 15
+[Fri Jan 31 09:45:28 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Fri Jan 31 09:45:28 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Fri Jan 31 09:45:28 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:15
+[Fri Jan 31 09:45:28 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 80
+[Fri Jan 31 09:45:28 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Fri Jan 31 09:45:28 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Fri Jan 31 09:45:28 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:80
+[Fri Jan 31 09:45:28 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Fri Jan 31 09:49:05 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 15
+[Fri Jan 31 09:49:05 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Fri Jan 31 09:49:05 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Fri Jan 31 09:49:05 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:15
+[Fri Jan 31 09:49:05 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 83
+[Fri Jan 31 09:49:05 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Fri Jan 31 09:49:05 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Fri Jan 31 09:49:05 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:83
+[Fri Jan 31 09:49:05 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Mon Feb 03 01:27:15 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 15
+[Mon Feb 03 01:27:15 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Mon Feb 03 01:27:15 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Mon Feb 03 01:27:15 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:15
+[Mon Feb 03 01:27:15 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 83
+[Mon Feb 03 01:27:15 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Mon Feb 03 01:27:15 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Mon Feb 03 01:27:15 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:83
+[Mon Feb 03 01:27:15 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Mon Feb 03 02:25:00 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 15
+[Mon Feb 03 02:25:00 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Mon Feb 03 02:25:00 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Mon Feb 03 02:25:00 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:15
+[Mon Feb 03 02:25:00 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 83
+[Mon Feb 03 02:25:00 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Mon Feb 03 02:25:00 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Mon Feb 03 02:25:00 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:83
+[Mon Feb 03 02:25:00 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Mon Feb 03 04:45:25 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 15
+[Mon Feb 03 04:45:25 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Mon Feb 03 04:45:25 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Mon Feb 03 04:45:25 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:15
+[Mon Feb 03 04:45:25 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 83
+[Mon Feb 03 04:45:25 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Mon Feb 03 04:45:25 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Mon Feb 03 04:45:25 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:83
+[Mon Feb 03 04:45:25 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Thu Feb 06 02:17:24 2014] [error] [client 192.168.30.1] PHP Parse error:  syntax error, unexpected T_ECHO in /home/source/sites/test/test.com/web/index.php on line 29
+[Thu Feb 06 02:17:24 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Thu Feb 06 02:17:31 2014] [error] [client 192.168.30.1] PHP Parse error:  syntax error, unexpected T_ECHO in /home/source/sites/test/test.com/web/index.php on line 29
+[Thu Feb 06 02:17:31 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Thu Feb 06 02:17:42 2014] [error] [client 192.168.30.1] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/info.php on line 2
+[Thu Feb 06 02:17:42 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:17:42 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/info.php:0
+[Thu Feb 06 02:17:42 2014] [error] [client 192.168.30.1] PHP   2. phpinfo() /home/source/sites/test/test.com/web/info.php:2
+[Thu Feb 06 02:17:49 2014] [error] [client 192.168.30.1] PHP Parse error:  syntax error, unexpected T_ECHO in /home/source/sites/test/test.com/web/index.php on line 29
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 15
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:15
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count_total in /home/source/sites/test/test.com/web/index.php on line 28
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 92
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:18:35 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:92
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 16
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:16
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count_total in /home/source/sites/test/test.com/web/index.php on line 29
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 93
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:93
+[Thu Feb 06 02:23:43 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 16
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:16
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count_total in /home/source/sites/test/test.com/web/index.php on line 29
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 93
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:93
+[Thu Feb 06 02:25:22 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 16
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:16
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count_total in /home/source/sites/test/test.com/web/index.php on line 31
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 98
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:30:50 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:98
+[Thu Feb 06 02:30:51 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 16
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:16
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count_total in /home/source/sites/test/test.com/web/index.php on line 31
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 98
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:32:20 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:98
+[Thu Feb 06 02:32:21 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 16
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:16
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count_total in /home/source/sites/test/test.com/web/index.php on line 31
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 98
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:98
+[Thu Feb 06 02:33:05 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 16
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:16
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count in /home/source/sites/test/test.com/web/index.php on line 30
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count_total in /home/source/sites/test/test.com/web/index.php on line 46
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 113
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:113
+[Thu Feb 06 02:36:51 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 16
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:16
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count in /home/source/sites/test/test.com/web/index.php on line 33
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count_total in /home/source/sites/test/test.com/web/index.php on line 49
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 116
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:116
+[Thu Feb 06 02:38:04 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 16
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP   2. date('Y/m/d (D)') /home/source/sites/test/test.com/web/index.php:16
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count in /home/source/sites/test/test.com/web/index.php on line 33
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP Notice:  Undefined variable: count_total in /home/source/sites/test/test.com/web/index.php on line 49
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'UTC' for 'UTC/0.0/no DST' instead in /home/source/sites/test/test.com/web/index.php on line 116
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP Stack trace:
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP   1. {main}() /home/source/sites/test/test.com/web/index.php:0
+[Thu Feb 06 02:38:42 2014] [error] [client 192.168.30.1] PHP   2. date('Y') /home/source/sites/test/test.com/web/index.php:116
+[Thu Feb 06 02:38:43 2014] [error] [client 192.168.30.1] File does not exist: /home/source/sites/test/test.com/web/favicon.ico
