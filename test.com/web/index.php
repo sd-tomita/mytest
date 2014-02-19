@@ -55,6 +55,29 @@ echo $count_total."<br>";
 $count_total +=1;
 echo $count_total."<br>";
 
+echo "<h3>stdClass</h3>の挙動テスト";
+$std = new stdClass();
+$std->a =123;
+$std->b = 456;
+$std->c = 789;
+
+echo "<pre>";
+var_dump($std);
+echo "</pre>";
+
+/*-------------------------
+stdClassの挙動テスト　の出力結果、こうなる。
+
+object(stdClass)#1 (3) {
+  ["a"]=>
+  int(123)
+  ["b"]=>
+  int(456)
+  ["c"]=>
+  int(789)
+}
+---------------------------*/
+
 ?>
 </div>
 
